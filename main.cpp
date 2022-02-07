@@ -1,9 +1,9 @@
 /*
-    Integrantes:    Lara Gama Santos (20213001497)
-                    Lucas Santos Rodrigues (20213001521)
-                    Marcela Camarano Caram (20213006528)
-                    Sulamita Ester Costa (20213001568)
-                    Vinicius Ferreira Pinheiro (20213005208)
+    Integrantes:    Lara Gama Santos 
+                    Lucas Santos Rodrigues 
+                    Marcela Camarano Caram 
+                    Sulamita Ester Costa
+                    Vinicius Ferreira Pinheiro 
 
 */
 #include <stdio.h>
